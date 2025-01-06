@@ -745,7 +745,7 @@ Response:
 
 ## Settings related:
 
-**/301//set_emblem_color.php?token=d4dfe70e06a43085&red=(number)&green=(number)&blue=(number)**
+**/301//set_emblem_color.php?token=[game_token]&red=(number)&green=(number)&blue=(number)**
 
 METHOD: `GET`
 
