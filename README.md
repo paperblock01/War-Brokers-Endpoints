@@ -74,6 +74,49 @@ Response:
 *InGameName* {uid} {server} *ipAddress*:*port* *Online/Offline* (players) (gamemode) (steam 0/1)
 ```
 
+**/players_online.php**
+
+METHOD: `GET`
+
+TYPE: `html`
+
+Response:
+```
+(players)
+```
+
+**/reset_cookies.php**
+
+METHOD: `GET`
+
+TYPE: `html`
+
+Response:
+```
+Log in
+Logout
+Game Modes
+SPEED 4v4  NEW! 
+CLASSIC 8v8
+BATTLE ROYALE
+SURVIVAL
+Friends
+{{friend.name}}
+{{friend.gameMode}}
+Click to {{friend.joinText}}
+Logged in players can build a friend list to make it easier to play together.
+Discord
+PLAY NOW!
+Sign in with Steam
+Sign in with Twitch
+Sign in with VK
+Discord
+Streaming
+Stats & More
+Stats
+MY STATS DAILY LEADERS ALL TIME LEADERS MAPS BATTLE ROYALE ITEMS VIDEOS COMICS SUPPORT
+```
+
 ## store1.warbrokers.io
 
 * Related subdomains included: store1, store2, store3, store4
