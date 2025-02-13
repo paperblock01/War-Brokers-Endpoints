@@ -120,7 +120,7 @@ MY STATS DAILY LEADERS ALL TIME LEADERS MAPS BATTLE ROYALE ITEMS VIDEOS COMICS S
 ## store1.warbrokers.io
 
 * Related subdomains included: store1, store2, store3, store4
-
+* The /301/ at the begining of the endpoint is subject to change and may sometimes return a 404. Increase the number by 1.
 
 ### Server related:
 
