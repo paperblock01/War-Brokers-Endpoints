@@ -191,7 +191,7 @@ TYPE: `html`
 Response:
 
 ```
-(*UNKNOWN*),(*UNKNOWN*),{cosmeticid},{cosmeticid}, ... , {cosmeticid}
+(coins),(*UNKNOWN*),{cosmeticid},{cosmeticid}, ... , {cosmeticid}
 ```
 
 **/get_selected_items.php?token=[game_token]**
